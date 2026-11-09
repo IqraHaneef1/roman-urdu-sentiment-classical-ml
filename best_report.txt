@@ -1,0 +1,10 @@
+Linear SVM + Char 2-5-gram
+              precision    recall  f1-score   support
+
+    Positive     0.6718    0.6366    0.6537      1164
+    Negative     0.6581    0.5612    0.6058      1046
+     Neutral     0.6640    0.7494    0.7041      1672
+
+    accuracy                         0.6649      3882
+   macro avg     0.6646    0.6491    0.6545      3882
+weighted avg     0.6647    0.6649    0.6625      3882
